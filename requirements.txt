@@ -1,0 +1,7 @@
+python-dotenv
+langchain
+pydantic
+beautifulsoup4
+playwright
+langchain-community
+langchain-core
